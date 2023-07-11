@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Lato;
+}
+/* start heading section */
+.header-container{
+    gap: 120px;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(229, 84, 115, 0.10);
+    padding-top: 30px;
+}
+.head-content-text{
+    color: #272727;
+font-size: 80px;
+font-weight: 800;
+}
+.head-content-pera{
+color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+
+}
+.btn{
+    height: 50px;
+    width: 130px;
+    background: #E55473;
+    border-radius: 5px;
+    border: none;
+    margin-top: 10px;
+    color: white;
+    font-weight: 400;
+}
+.head-content{
+    width: 650px;
+}
+.head-img{
+    width: 635px;
+    height: 748px;
+
+}
+
+/* end header section */
